@@ -1,0 +1,14 @@
+/* style canvas*/
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#canvas {
+  background-color: #fff;
+  border: 2px solid rgb(0, 0, 0);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 5rem;
+  padding: 0;
+}
